@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12314" started-at="2018-04-15T02:21:26Z" finished-at="2018-04-15T02:21:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12314" started-at="2018-04-15T02:21:26Z" finished-at="2018-04-15T02:21:39Z">
+      <class name="userinterface.UITestcases">
+        <test-method status="PASS" signature="Login()[pri:1, instance:userinterface.UITestcases@4d41cee]" name="Login" duration-ms="10315" started-at="2018-04-14T19:21:26Z" finished-at="2018-04-14T19:21:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Search()[pri:2, instance:userinterface.UITestcases@4d41cee]" name="Search" duration-ms="1236" started-at="2018-04-14T19:21:37Z" finished-at="2018-04-14T19:21:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+        <test-method status="PASS" signature="VerifyNameChange()[pri:3, instance:userinterface.UITestcases@4d41cee]" name="VerifyNameChange" duration-ms="40" started-at="2018-04-14T19:21:38Z" finished-at="2018-04-14T19:21:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyNameChange -->
+        <test-method status="PASS" signature="VerifyDeletion()[pri:4, instance:userinterface.UITestcases@4d41cee]" name="VerifyDeletion" duration-ms="700" started-at="2018-04-14T19:21:38Z" finished-at="2018-04-14T19:21:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyDeletion -->
+      </class> <!-- userinterface.UITestcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
